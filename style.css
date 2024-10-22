@@ -1,0 +1,43 @@
+        :root {
+            --bs-primary: #dc3545;
+            --bs-primary-rgb: 220, 53, 69;
+        }
+
+        .logo{
+            width: 50px;
+            height: 70px;
+        }
+
+        .navbar {
+            background-color: #000 !important;
+        }
+        .navbar-light .navbar-nav .nav-link {
+            color: #fff;
+        }
+        .navbar-light .navbar-nav .nav-link:hover {
+            color: var(--bs-primary);
+        }
+        .btn-primary {
+            background-color: var(--bs-primary);
+            border-color: var(--bs-primary);
+        }
+        .btn-primary:hover {
+            background-color: #b02a37;
+            border-color: #b02a37;
+        }
+        .bg-primary {
+            background-color: var(--bs-primary) !important;
+        }
+        .skill-icon {
+            font-size: 3rem;
+            margin-bottom: 0.5rem;
+        }
+        #skills {
+            background-color: #f8f9fa;
+        }
+        #contact {
+            background-color: #e9ecef;
+        }
+        footer {
+            background-color: #000;
+        }
