@@ -3,19 +3,19 @@ Un sitio web personal que muestra mi trabajo y habilidades como desarrollador. D
 
 🛠 Tecnologías Utilizadas
 
-HTML5
-CSS3
-Bootstrap 5
+- HTML5
+- CSS3
+- Bootstrap 5
 
 
 ✨ Características
 
-Diseño totalmente responsive
-Navegación suave entre secciones
-Galería de proyectos interactiva
-Formulario de contacto
+- Diseño totalmente responsive
+- Navegación suave entre secciones
+- Galería de proyectos interactiva
+- Formulario de contacto
 
 
 Clona este repositorio
 - bash
-git clone https://github.com/jArango82/Portafolio.git
+    git clone https://github.com/jArango82/Portafolio.git
