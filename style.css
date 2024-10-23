@@ -41,3 +41,33 @@
         footer {
             background-color: #000;
         }
+
+        .card {
+            transition: all 0.3s ease-in-out;
+            border: 1px solid rgba(0,0,0,0.125);
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .card:hover {
+            transform: translateY(-10px) scale(1.02);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+        }
+
+        /* Animación suave para la imagen */
+        .card-img-top {
+            transition: all 0.3s ease-in-out;
+        }
+
+        .card:hover .card-img-top {
+            opacity: 0.9;
+        }
+
+        /* Efecto suave para el botón */
+        .card .btn {
+            transition: all 0.3s ease-in-out;
+        }
+
+        .card:hover .btn {
+            transform: translateY(-2px);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+        }
