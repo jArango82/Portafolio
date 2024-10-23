@@ -1,14 +1,14 @@
-Mi Portafolio Personal 🚀
+# Mi Portafolio Personal 🚀
 Un sitio web personal que muestra mi trabajo y habilidades como desarrollador. Diseñado y construido con HTML, CSS y Bootstrap para crear una experiencia responsive y moderna.
 
-🛠 Tecnologías Utilizadas
+## 🛠 Tecnologías Utilizadas
 
-- HTML5
-- CSS3
-- Bootstrap 5
+![Static Badge](https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=HTML5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS-3-blue?style=flat-square&logo=CSS3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/BOOTSTRAP-5-zian?style=flat-square&logo=Bootstrap&logoColor=white)
 
 
-✨ Características
+### ✨ Características
 
 - Diseño totalmente responsive
 - Navegación suave entre secciones
